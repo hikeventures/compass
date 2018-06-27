@@ -1,6 +1,6 @@
 # general configuration
-url: http://hikeventures-store.github.io
-baseurl: ''
+url: 
+baseurl: /hikeventures-store.github.io
 
 # compass configuration
 compass:
