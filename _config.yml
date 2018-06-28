@@ -1,4 +1,5 @@
 # general configuration
+
 url: http://hikeventures-store.github.io
 baseurl: /hikeventures-store.github.io
 
@@ -16,7 +17,8 @@ compass:
   # if include_analytics is true, the content of the analytics.html include will
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
-  include_analytics: false
+
+include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
   twitter: "compass"
 
