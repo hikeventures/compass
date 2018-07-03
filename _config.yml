@@ -20,7 +20,7 @@ compass:
 
 include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "compass"
+twitter: "compass"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
